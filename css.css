@@ -8,7 +8,7 @@ body{background-color:#473C8B;}
 	left:0;
 	top:0; 
 	width: 100%;
-	height:20%;
+	height:18%;
 	background:#00BFFF;
 	z-index:999;
 	}
@@ -24,7 +24,8 @@ body{background-color:#473C8B;}
 	}
 #info
 	{
-	font-size:300%;
+	
+	font-size:160%;
 	position:relative;
 	text-align:left;
 	float:left;
@@ -35,8 +36,9 @@ body{background-color:#473C8B;}
 	}
 #add,#pay
 	{
-	font-size:300%;
-	height:70%;
+	margin-top:6.5%;
+	font-size:150%;
+	height:35%;
 	width:40%;
 	background:#000080;
 	color:white;
@@ -51,28 +53,30 @@ body{background-color:#473C8B;}
 	z-index:0;}
 #container
 	{
-	height:35%;
-	font-size:300%;
+	height:25%;
+	font-size:160%;
 	border:5px inset #8E8E8E;
 	background:#EAEAEA;
 	width:96%;
 	margin:2%;}
 .image
 	{
-	width:15%;
-	height:210px;
+width:30%;
+	
 	}
 .nameid
 	{
-	width:38%;
+	width:35%;
 	text-align:left;
 	}
 .subttl
 	{
-	width:38%;
+	width:35%;
 	}
-.remove
+#quantity
 	{
-	width:2%;
+	width:30%;
+	height:20%;
 	
+	font-size:60%;
 	}
