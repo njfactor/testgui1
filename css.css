@@ -1,6 +1,6 @@
 body{background-color:#473C8B;}
 #testtemp{
-padding-top:20%;
+padding-top:30%;
 width:100%;}
 #clickers
 	{
@@ -10,7 +10,8 @@ width:100%;}
 	border:5px inset #8E8E8E;
 	background:black;
 	width:100%;
-	
+	top:0px;
+	left:0px;
 	color:white;	
 	position: fixed;
 	z-index:99;}
